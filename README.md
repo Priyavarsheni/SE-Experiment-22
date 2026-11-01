@@ -23,4 +23,6 @@ This experiment demonstrates how to track changes in a project using Git and upl
 * git add
 * git commit
 * git push
+Collaborator update: Latest changes for Experiment 23.
+
 
